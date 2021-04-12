@@ -8,7 +8,7 @@
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/patelpaavan55/
 <!---
 patelpaavan55/patelpaavan55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
